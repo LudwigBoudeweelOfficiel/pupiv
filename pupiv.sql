@@ -147,13 +147,10 @@ CREATE TABLE IF NOT EXISTS `salles` (
 --
 
 INSERT INTO `salles` (`NomSalle`, `EleveMax`, `IdSalle`) VALUES
-('BIMGC', 16, 2),
-('BIMFinition', 16, 3),
-('TOPO', 7, 5),
-('BureauEtude2', 17, 6),
-('Annexe1ET', 16, 7),
-('pupitre2', 16, 10),
-('pupitre1', 16, 11);
+('Salle1', 16, 2),
+('Salle2', 16, 3),
+('Salle3', 7, 5),
+('Salle4', 17, 6),
 
 -- --------------------------------------------------------
 
